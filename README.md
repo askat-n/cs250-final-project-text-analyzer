@@ -14,5 +14,6 @@ It shows word and sentence counts, speaking time, the first 30 words, the most c
 3. For your own text, upload a `.txt` file and run `main("your_file.txt")`.
 
 ## Files
+- `text_analyzer.py`: the same program as a plain Python script (`python text_analyzer.py`)
 - `Text_Analyzer.ipynb`: the code, tests, results, and AI log
 - `sample_good.txt`, `sample_slow.txt`: sample texts used for testing
